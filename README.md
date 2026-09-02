@@ -1,7 +1,9 @@
-# 👩‍💻 Hola, soy Leidy
+## 🎮 Ruta de Aprendizaje: Game Developer (roadmap.sh)
 
-🎓 Estudiante de **Ingeniería de Sistemas y Computación**, apasionada por la tecnología y la creación de soluciones con propósito.
+📍 **Estado actual:** Apenas iniciando 🌱 — construyendo las bases
 
-🎮 Actualmente trabajo en **Ecosysgame: RiverExplorer**, un videojuego educativo 2D que combina **tecnología, aprendizaje y conciencia ambiental** para enseñar sobre la conservación de la cuenca alta del río Alto Ubaté. 🌱🌊
+Sigo el [roadmap de Game Developer de roadmap.sh](https://roadmap.sh/game-developer), avanzando etapa por etapa:
 
-💡 **Aprender • Crear • Innovar • Transformar**
+🧩 **Proyecto actual:** [RiverExplorer](https://github.com/Victemor/Ecosysgame.git) — videojuego educativo 2D sobre conservación ambiental, mi primer acercamiento práctico mientras avanzo en el roadmap.
+
+> "Un paso a la vez: de las matemáticas del juego a un mundo jugable." 🌊
